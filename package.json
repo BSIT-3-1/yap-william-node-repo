@@ -1,0 +1,19 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "This is a test node project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSIT-3-1/yap-william-node-repo.git"
+  },
+  "author": "William Yap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSIT-3-1/yap-william-node-repo/issues"
+  }
+}
